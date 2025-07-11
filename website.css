@@ -93,4 +93,35 @@ main{
     border-radius: 50px;
 }
 
+/* productive user section */
+.productive-user{
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 25px;
+    padding: 50px 140px;
+    background-color: #E5E7FF;
+    margin-top: 120px;
+    margin-bottom: 40px;
+}
+.user-information{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 120px;
+}
+
+.productive-user-tittle{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.user-data-number{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+.user-data-des{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
 
