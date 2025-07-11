@@ -193,9 +193,40 @@ form input[type="email"], form input[type="text"],form input[type="submit"], tex
     border: none;
     padding: 20px 30px;
 }
-form label{
-
+/* footer section */
+footer{
+    background-color: white;
 }
 
+.footer-tittle{
+    font-size: 100px;
+    color: rgba(78, 71, 255, 1);
+    text-align: center;
+
+}
+.footer-des{
+    color: rgba(137, 135, 161, 1);
+    text-align: center;
+}
+
+.footer-content{
+    border: 2px solid black;
+    padding: 100px 450px;
+}
+.footer-info{
+    border: 2px solid black;
+}
+footer ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+footer li {
+    list-style: none;
+    margin: 0 50px ;
+    color: rgba(137, 135, 161, 1);
+    
+}
 
 
