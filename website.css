@@ -105,7 +105,7 @@ main{
 .user-information{
     display: flex;
     justify-content: space-between;
-    padding: 50px 120px;
+   
 }
 
 .productive-user-tittle{
