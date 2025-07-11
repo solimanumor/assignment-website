@@ -210,12 +210,10 @@ footer{
 }
 
 .footer-content{
-    border: 2px solid black;
+  
     padding: 100px 450px;
 }
-.footer-info{
-    border: 2px solid black;
-}
+
 footer ul{
     display: flex;
     justify-content: center;
